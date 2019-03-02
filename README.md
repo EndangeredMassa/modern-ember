@@ -2,6 +2,10 @@
 
 This is a rewrite of the job board.
 
+## Conventions
+
+Conventions for this app follow Ember community standards. Deviations or elaborations are [documented](./docs/conventions).
+
 ## Dependency Issues
 
 - [ember-intl#814](https://github.com/ember-intl/ember-intl/issues/814) has an issue that means `errorOnMissingTranslations` doesn't work.

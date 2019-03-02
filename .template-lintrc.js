@@ -11,6 +11,7 @@ module.exports = {
     'eol-last': 'never',
     'link-href-attributes': true,
     'no-action-modifiers': true,
+    'no-bare-strings': true,
     'no-extra-mut-helper-argument': true,
     'no-trailing-spaces': true,
     'template-length': false,

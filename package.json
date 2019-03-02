@@ -17,6 +17,9 @@
     "start": "ember serve",
     "test": "ember test"
   },
+  "dependencies": {
+    "ember-cli-tailwind": "^0.7.0"
+  },
   "devDependencies": {
     "@ember/optional-features": "^0.6.3",
     "broccoli-asset-rev": "^2.7.0",

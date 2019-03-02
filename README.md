@@ -1,5 +1,7 @@
 # ui-web-ember
 
+[![Build Status](https://travis-ci.com/flashrecruit/api.svg?token=yxSFigGqvSzqF1Az8sQc&branch=master)](https://travis-ci.com/flashrecruit/api)
+
 This is a rewrite of the job board.
 
 ## Conventions

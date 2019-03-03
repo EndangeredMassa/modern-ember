@@ -25,8 +25,8 @@ install:
   - yarn install --non-interactive
 
 script:
+  - yarn test
   - yarn lint:hbs
   - yarn lint:js
   - ember dependency-lint
-  - yarn test
   - ember bundlesize:test

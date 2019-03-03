@@ -1,2 +1,14 @@
-job-board: Job Board
-log-in: Log In!
+# Key Naming Rules!
+# - in general: shared keys should be located at their nearest ancestor
+#   - keys for route templates should go in `layout`
+#   - keys for components should go in `component`
+# - keys specific to a file should have a matching nested key name
+# - keys for intended global use (like a button component) should go in `shared`
+
+shared:
+
+layout:
+  job-board: Job Board
+
+component:
+  log-in: Log In!

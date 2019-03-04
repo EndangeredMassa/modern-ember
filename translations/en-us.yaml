@@ -9,6 +9,9 @@ shared:
 
 layout:
   job-board: Job Board
+  search: Search
+  chat: Chat
+  logo-description: FlashRecruit
 
 component:
   log-in: Log In!

@@ -4,10 +4,7 @@ module.exports = {
   extends: 'recommended',
   rules: {
     'no-implicit-this': true,
-    'attribute-indentation': {
-      'element-open-end': 'last-attribute',
-      'mustache-open-end': 'last-attribute'
-    },
+    'attribute-indentation': false,
     'eol-last': 'never',
     'link-href-attributes': true,
     'no-action-modifiers': true,

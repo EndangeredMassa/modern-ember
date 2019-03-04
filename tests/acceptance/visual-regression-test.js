@@ -14,5 +14,5 @@ function screenshot(path) {
 module('Acceptance | visual regression testing', function(hooks) {
   setupApplicationTest(hooks);
 
-  screenshot('/');
+  screenshot('/jobs/1');
 });

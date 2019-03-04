@@ -41,6 +41,15 @@ module.exports = function(environment) {
 
     ENV.APP.rootElement = '#ember-testing';
     ENV.APP.autoboot = false;
+
+    ENV.percy = {
+      breakpointsConfig: {
+        mobile: 450,
+        tablet: 1024,
+        desktop: 1400 // percy max allowed
+      },
+      defaultBreakpoints: ['mobile', 'desktop']
+    }
   }
 
   if (environment === 'production') {

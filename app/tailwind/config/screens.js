@@ -17,9 +17,9 @@
 |
 */
 
- export default {
-  'sm': '576px',
-  'md': '768px',
-  'lg': '992px',
-  'xl': '1200px',
+export default {
+  'sm': '0', // phone
+  'md': '44em', // tablet
+  'lg': '80em', // desktop
+  'xl': '100em' // widescreen
 };

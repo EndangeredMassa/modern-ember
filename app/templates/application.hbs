@@ -1,3 +1,14 @@
-<LogIn />
+<header class="h-12 bg-grey">
+  <div>{{t "layout.logo-description"}}</div>
+  <LogIn />
+</header>
 
-{{outlet}}
+<div class="flex flex-1">
+  <div class="flex flex-1 sm:flex-col-reverse md:flex-row">
+
+    {{outlet}}
+
+  </div>
+</div>
+
+<footer class="h-12 bg-grey hidden"></footer>

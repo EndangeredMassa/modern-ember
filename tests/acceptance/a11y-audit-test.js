@@ -14,5 +14,5 @@ function audit(path) {
 module('Acceptance | a11y audit', function(hooks) {
   setupApplicationTest(hooks);
 
-  audit('/');
+  audit('/jobs/1');
 });

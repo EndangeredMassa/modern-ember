@@ -1,4 +1,4 @@
-# ui-web-ember
+# modern-ember
 
 [![Build Status](https://travis-ci.com/flashrecruit/api.svg?token=yxSFigGqvSzqF1Az8sQc&branch=master)](https://travis-ci.com/flashrecruit/api)
 

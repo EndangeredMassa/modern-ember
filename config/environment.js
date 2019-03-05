@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'ui-web-ember',
+    modulePrefix: 'modern-ember',
     environment,
     rootURL: '/',
     locationType: 'auto',

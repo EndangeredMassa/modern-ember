@@ -1,8 +1,6 @@
 # modern-ember
 
-[![Build Status](https://travis-ci.com/flashrecruit/api.svg?token=yxSFigGqvSzqF1Az8sQc&branch=master)](https://travis-ci.com/flashrecruit/api)
-
-This is a rewrite of the job board.
+This is an example of using latest ember, a few addons that provide future functionality, and a few important community addons.
 
 ## Conventions
 

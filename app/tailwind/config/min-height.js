@@ -15,6 +15,7 @@
 
 export default {
   '0': '0',
+  '48': '12rem',
   'full': '100%',
   'screen': '100vh',
 };
